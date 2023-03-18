@@ -51,7 +51,6 @@
 #define STM32G0
 #endif /* STM32G0 */
 
-
 /* Uncomment the line below according to the target STM32G0 device used in your
    application
   */

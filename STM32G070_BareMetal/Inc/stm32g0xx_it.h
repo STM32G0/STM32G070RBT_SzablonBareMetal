@@ -25,6 +25,7 @@
  extern "C" {
 #endif
 
+volatile extern uint16_t ms_counter ;
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
